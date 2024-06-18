@@ -1,5 +1,15 @@
-p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Arial; color: #262626; -webkit-text-stroke: #262626}
-li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; color: #262626; -webkit-text-stroke: #262626}
+p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Arial; color: #315e9c; -webkit-text-stroke: #3b1cc6;
+border: 1px solid black;
+background-color: rgb(245, 240, 235);
+font-style: 'Courier New' Courirer, monospace;
+font-style: italic;
+font-size: 16px;
+padding: 10px;
+margin: 5px;
+}
+li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; color: #b1dd11; -webkit-text-stroke: #e46f0f}
 span.s1 {font-kerning: none}
-span.s2 {-webkit-text-stroke: 0px #000000}
+span.s2 {
+    -webkit-text-stroke: 0px #000000;
+}
 ul.ul1 {list-style-type: disc}
